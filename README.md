@@ -6,7 +6,7 @@ This module adds a simple function for making abbreviated versions of Vim comman
 
 `Plugin 'kmcculloch/vim-cabbrevplus'`
 
-## Usage
+## Usage example
 
 To map the Vim command `:NERDTree` to `:nt`, add the following to your `.vimrc`:
 
